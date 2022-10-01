@@ -27,6 +27,7 @@ Execute o arquivo main
 # Funcionamento do App
 
 ```
-Verifica, em tempo real, se houve variação no valor do bitcoin, levando em consideração as máximas e mínimas de ontem. Caso 
-haja uma variação considerável, envia um aviso informando qual foi a variação do valor e as últimas notícias do G1 e UOL
+Verifica, em tempo real, se houve variação no valor do bitcoin, levando em consideração as máximas e
+mínimas de ontem. Caso haja uma variação considerável, envia um aviso informando qual foi a variação
+do valor e as últimas notícias do G1 e UOL
 ```
